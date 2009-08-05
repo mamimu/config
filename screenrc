@@ -1,5 +1,6 @@
 escape ^oO
 
+#256colors
 defbce             on
 term               rxvt-unicode
 termcapinfo rxvt-unicode* 'Co#256:pa#32767:AB=\E[48;5;%dm:AF=\E[38;5;%dm:'
