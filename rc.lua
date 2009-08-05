@@ -522,6 +522,4 @@ end)
 -- autostart
 os.execute("firefox &")
 os.execute("gvtray &")
--- os.execute("gwibber &")
--- os.execute("pidgin &")
 
