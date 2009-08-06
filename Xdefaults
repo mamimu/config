@@ -1,0 +1,78 @@
+xterm*utf8              : 1
+xterm*wideChars			: true
+xterm*preeditType:root
+xterm*selectToClipboard : true
+xterm*locale            : true
+xterm*faceName			: Andale Mono
+!xterm*fontDoublesize	: true
+xterm*faceSize          : 9
+xterm*cjkWidth          : true
+xterm*background        : black
+xterm*foreground        : white
+xterm*saveLines         : 20
+xterm*geometry          : 100x30+300+100
+xterm*color0:      #222222
+xterm*color1:      #9e1828
+xterm*color2:      #aece92
+xterm*color3:      #968a38
+xterm*color4:      #71C5F4
+xterm*color5:      #963c59
+xterm*color6:      #418179
+xterm*color7:      #bebebe
+xterm*color8:      #666666
+xterm*color9:      #cf6171
+xterm*color10:     #c5f779
+xterm*color11:     #fff796
+xterm*color12:     #67CDE9
+xterm*color13:     #cf9ebe
+xterm*color14:     #71bebe
+xterm*color15:      #FFFFFF
+xterm*cursorColor:       #d8d8d8
+xterm*font:         -mplus-gothic-medium-r-normal--12-*-*-*-*-60-*,\
+  -mplus-gothic-medium-r-normal--12-*-*-*-*-120-*
+
+!urxvt.font: xft:mplus-8.5
+!urxvt*shading:            45
+!URxvt*inheritPixmap:        True
+urxvt*font:\
+  -mplus-gothic-medium-r-normal--12-*-*-*-*-60-*,\
+    -mplus-gothic-medium-r-normal--12-*-*-*-*-120-*
+urxvt*preeditType:root
+urxvt.background: black
+urxvt.foreground: white
+urxvt*scrollBar:    true 
+urxvt*scrollBar_floating:   true 
+urxvt*scrollBar_right:  true 
+urxvt*scrollColor:       #202020
+urxvt*termName:    rxvt-unicode
+urxvt*urllauncher:           firefox
+urxvt*matcher.button:        3
+urxvt*saveLines:              8192
+urxvt.perl-ext-common:         default,matcher,tabbed
+! black 
+urxvt*color0:      #222222
+urxvt*color8:      #666666
+! red
+urxvt*color1:      #9e1828
+urxvt*color9:      #cf6171
+! green
+urxvt*color2:      #aece92
+urxvt*color10:     #c5f779
+! yellow
+urxvt*color3:      #968a38
+urxvt*color11:     #fff796
+! blue
+urxvt*color4:      #71C5F4
+urxvt*color12:     #67CDE9
+! magenta
+urxvt*color5:      #963c59
+urxvt*color13:     #cf9ebe
+! cyan
+urxvt*color6:      #418179
+urxvt*color14:     #71bebe
+! white
+urxvt*color7:      #bebebe
+urxvt*color15:      #FFFFFF
+           
+urxvt*cursorColor:       #d8d8d8
+
